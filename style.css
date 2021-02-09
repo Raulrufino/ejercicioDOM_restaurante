@@ -1,0 +1,12 @@
+.section{
+    display: flex;
+    justify-content:space-around;
+    border: 2px black solid;
+    
+}
+
+li{
+    padding: 10px;
+    
+}
+
